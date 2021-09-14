@@ -1,1 +1,4 @@
-TinDog Starting Files
+TinDog
+A Responsive Website 
+Used HTML,CSS & Bootstrap
+
